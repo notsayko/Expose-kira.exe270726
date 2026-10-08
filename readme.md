@@ -2,6 +2,12 @@
 
 so apparently this guy called nox is a developer now
 
+> [!TIP]
+> Don't just take my word for it. Check the screenshots, the code and the information in the repo yourself and make your own opinion.
+
+> [!WARNING]
+> Some of the information shown in the screenshots has been redacted.
+> Don't use anything in this repository to target, harass, or attack anyone.
 i don't really know where to start with this one because the whole thing is genuinely
 funny.
 
