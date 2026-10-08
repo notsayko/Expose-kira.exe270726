@@ -116,6 +116,18 @@ yeah.
 
 make of that what you want.
 
+## the VPS
+
+yes, the screenshot also exposes the server information.
+
+I'm not posting the actual IP here because there is literally no reason
+to turn a programming drama into a DDoS invitation.
+
+**VPS:** `[2.56.246.240]`
+
+If you actually want to verify anything, look at the code and the public
+GitHub history instead.
+
 ## anyway
 
 if you found this repo because someone sent it to you, congratulations.
