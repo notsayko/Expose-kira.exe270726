@@ -106,6 +106,16 @@ people can compare repositories.
 
 that's kind of the whole point.
 
+## the screenshot
+
+here's the screenshot that started all of this:
+
+<img src="./screenshot.png" width="900">
+
+yeah.
+
+make of that what you want.
+
 ## anyway
 
 if you found this repo because someone sent it to you, congratulations.
