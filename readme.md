@@ -117,6 +117,7 @@ that's kind of the whole point.
 here's the screenshot that started all of this:
 
 <img src="./screenshot.png" width="900">
+<img src="./screenshot1.png" width="900">
 
 yeah.
 
